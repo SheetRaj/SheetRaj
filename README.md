@@ -24,7 +24,7 @@ Apart from coding, I enjoy exploring the latest advancements in the cybersecurit
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SheetRaj&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-
+![Sheet Raj GitHub stats](https://github-readme-stats.vercel.app/api?username=SheetRAJ&show_icons=true&theme=transparent)
 <!--
 **SheetRaj/SheetRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
