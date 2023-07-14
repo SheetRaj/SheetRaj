@@ -20,11 +20,11 @@ I'm a  developer and currently a 3rd-year student pursuing my passion for progra
 
 Apart from coding, I enjoy exploring the latest advancements in the cybersecurity and blockchain domains. In my free time, I also like to contribute to open source projects and experiment with new technologies.
 
-##My GitHub Stats
+##  My GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SheetRaj&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-![Sheet Raj GitHub stats](https://github-readme-stats.vercel.app/api?username=SheetRAJ&show_icons=true&theme=transparent)
+![Sheet Raj GitHub stats](https://github-readme-stats.vercel.app/api?username=SheetRAJ&show_icons=true&theme=vue-dark)
 <!--
 **SheetRaj/SheetRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
