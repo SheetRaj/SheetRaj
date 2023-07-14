@@ -20,6 +20,10 @@ I'm a  developer and currently a 3rd-year student pursuing my passion for progra
 
 Apart from coding, I enjoy exploring the latest advancements in the cybersecurity and blockchain domains. In my free time, I also like to contribute to open source projects and experiment with new technologies.
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SheetRaj&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
+
 <!--
 **SheetRaj/SheetRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
