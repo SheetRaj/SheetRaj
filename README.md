@@ -26,7 +26,7 @@ Apart from coding, I enjoy exploring the latest advancements in the cybersecurit
 
 ![Sheet Raj GitHub stats](https://github-readme-stats.vercel.app/api?username=SheetRAJ&show_icons=true&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SheetRaj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SheetRaj&label=Count&color=0e75b6&style=flat" alt="SheetRaj" />
 
 
 
