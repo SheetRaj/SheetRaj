@@ -28,9 +28,7 @@ Apart from coding, I enjoy exploring the latest advancements in the cybersecurit
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SheetRaj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-https://github.com/SheetRaj/social_login/graphs/traffic
-
-
+[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/SheetRaj/my-profile-views-counter/blob/master/svg/profile/badge.svg)]
 
 
 
