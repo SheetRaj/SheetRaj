@@ -19,10 +19,3 @@ I'm a  developer and currently a final-year student pursuing my passion for prog
 ## Interests
 
 Apart from coding, I enjoy exploring the latest advancements in the cybersecurity and blockchain domains. In my free time, I also like to contribute to open source projects and experiment with new technologies.
-
-##  My GitHub Stats
-
-
-![Sheet Raj GitHub stats](https://github-readme-stats.vercel.app/api?username=SheetRAJ&show_icons=true&theme=vue-dark)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SheetRaj&label=Count&color=0e75b6&style=flat" alt="SheetRaj" />
