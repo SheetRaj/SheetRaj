@@ -14,7 +14,7 @@ I'm a  developer and currently a final-year student pursuing my passion for prog
 
 # Education
 
-- Currently pursuing a Bachelor's degree in Computer Science (3rd year student)
+- Currently pursuing a Bachelor's degree in Computer Science (Final year student)
 
 ## Interests
 
@@ -22,26 +22,7 @@ Apart from coding, I enjoy exploring the latest advancements in the cybersecurit
 
 ##  My GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SheetRaj&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ![Sheet Raj GitHub stats](https://github-readme-stats.vercel.app/api?username=SheetRAJ&show_icons=true&theme=vue-dark)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SheetRaj&label=Count&color=0e75b6&style=flat" alt="SheetRaj" />
-
-
-
-
-<!--
-**SheetRaj/SheetRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
