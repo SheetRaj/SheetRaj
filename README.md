@@ -6,11 +6,10 @@ I'm a  developer and currently a final-year student pursuing my passion for prog
 ## Skills
 
 - Frontend Development (HTML, CSS, JavaScript)
-- Android Development (Java)
+- Android Development (Java, flutter)
 - Web Development (MERN stack)
 - Data Structures and Algorithms (DSA)
 - Cybersecurity
-- Blockchain
 
 # Education
 
