@@ -1,20 +1,20 @@
-### Hello, I'm Sheet Raj! 👋
+### Hi, I'm Sheet Raj 👋
 
-I'm a  developer and currently a final-year student pursuing my passion for programming. My areas of interest lie in the exciting fields of cybersecurity and blockchain technology. I have a strong expertise in Data Structures and Algorithms (DSA) and enjoy working on Android and web development projects.
+Software & R&D Engineer in Taiwan. I turn R&D ideas into real products: the app, the hardware it talks to, and the AI that makes it smart.
 
+**What I'm working on**
+- **Smart Cover**: a thin sensor cover that brings hospital-bed monitoring to a normal home mattress. Now in beta testing.
+- **WOBOT**: a desk robot that talks using an LLM and moves its body while it speaks. Flutter app + Raspberry Pi Pico W.
+- **MyOnne**: a private chat and calling app with end-to-end encryption, built from scratch in Flutter. Now in beta.
 
-## Skills
+**Tech I use**
+- Apps: Flutter (Dart), React
+- AI: LLM API integration
+- Hardware: ESP32, Raspberry Pi Pico W, sensors, servo motors
+- Design: SolidWorks
 
-- Frontend Development (HTML, CSS, JavaScript)
-- Android Development (Java, flutter)
-- Web Development (MERN stack)
-- Data Structures and Algorithms (DSA)
-- Cybersecurity
+**Background**
+B.E. Computer Science, Chandigarh University (2025). Now doing a master's in Mechanical Engineering at Yuan Ze University, Taiwan.
 
-# Education
-
-- Currently pursuing a Bachelor's degree in Computer Science (Final year student)
-
-## Interests
-
-Apart from coding, I enjoy exploring the latest advancements in the cybersecurity and blockchain domains. In my free time, I also like to contribute to open source projects and experiment with new technologies.
+**Find me**
+[LinkedIn](https://www.linkedin.com/in/sheet-raj-081905215)
